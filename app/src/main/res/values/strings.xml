@@ -1,0 +1,15 @@
+<resources>
+    <!-- app -->
+    <string name="app_name">News</string>
+    <!-- url -->
+    <string name="github_url">https://github.com/mumaralfajar/news-app</string>
+    <string name="linkedin_url">https://www.linkedin.com/in/muhammad-umar-al-fajar-0639bb212/</string>
+    <!-- toolbar -->
+    <string name="detail">Detail</string>
+    <string name="saved">Saved</string>
+    <!-- title -->
+    <string name="headline_news">Headline news</string>
+    <!-- user -->
+    <string name="user_name">Muhammad Umar Al Fajar</string>
+    <string name="user_role">Computer Science Student</string>
+</resources>
